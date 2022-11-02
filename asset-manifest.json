@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Qwimik/react-todo-project/static/css/main.a12eddd3.css",
+    "main.js": "/Qwimik/react-todo-project/static/js/main.b863ed2d.js",
+    "index.html": "/Qwimik/react-todo-project/index.html",
+    "main.a12eddd3.css.map": "/Qwimik/react-todo-project/static/css/main.a12eddd3.css.map",
+    "main.b863ed2d.js.map": "/Qwimik/react-todo-project/static/js/main.b863ed2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a12eddd3.css",
+    "static/js/main.b863ed2d.js"
+  ]
+}
